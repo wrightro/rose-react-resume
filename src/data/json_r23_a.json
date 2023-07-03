@@ -49,32 +49,43 @@
             ]
           },
           {
-            "name": "Samsung Engineering",
-            "position": "3D Cad Engineer",
+            "name": "Marine Corps Community Services Okinawa",
+            "position": "Duty Manager Foster Bowling Center",
             "website": "http://company.com",
-            "startDate": "2014-01-01",
+            "startDate": "2010-01-01",
             "summary": "Description...",
-            "location": "Paris, France",
-            "highlights": ["Started the company"]
+            "location": "Okinawa, Japan",
+            "highlights": ["learned too much about bowling"]
         },
         {
-            "name": "What a nice office",
-            "position": "President",
+            "name": "Digium",
+            "position": "Business Phone Systems Technician",
             "website": "http://company.com",
-            "startDate": "2013-01-01",
-            "endDate": "2014-01-01",
-            "summary": "Description...",
-            "location": "Paris, France",
-            "highlights": ["Started the company"]
+            "startDate": "2010-01-01",
+            "endDate": "2011-01-01",
+            "summary": "PBX for small to mid sized companies",
+            "location": "San Diego, California",
+            "highlights": ["Troubleshooting, IVR, PBX, Asterisk, WireShark, worked with resellers and customers, RMAs, QA Case submittals"]
         },
         {
-            "name": "What a nice experience",
-            "position": "Lead dev",
+            "name": "National Electronics Warranty - DirecTV",
+            "position": "Technical Solutions Rep",
             "website": "http://company.com",
-            "summary": "Description...",
-            "location": "Paris, France",
-            "highlights": ["Started the company"]
+            "summary": "3rd Tier support for DirecTV satellite tv",
+            "location": "Remote, Jacksonville, North Carolina",
+            "highlights": ["troubleshooting, Documentation, service calls, RMAs, Trained other Reps"]
+        },       {
+            "name": "Nexxlinx - Time Warner Cable",
+            "position": "Retention Agent",
+            "website": "http://company.com",
+            "summary": "Retention Agent for Time Warner Cable",
+            "location": "Jacksonville, North Carolina",
+            "highlights": ["inbound calls, customer service skills, customer accounts, call flow, upselling, billing inquiries, technical supportr, customer escalation handling"]
         }
+
+
+
+
     ],
     "volunteer": [
         {
